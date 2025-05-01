@@ -1,4 +1,3 @@
-Flask==2.3.2
 pyrogram==2.0.106
 PyWinCtl==0.3
 tgcrypto
